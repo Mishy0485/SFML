@@ -4,6 +4,7 @@ using namespace sf;
 using namespace std;
 
 // id e jeu de rapidit  et al atoire un piano tiles?
+// conteur de vie
 
 int main()
 {
@@ -27,16 +28,6 @@ int main()
 	RectangleShape rec4(Vector2f(80.f, 80.f));
 	rec4.setFillColor(Color::White); // Remplissage rouge
 	rec4.setPosition(420.f, 60.f);    // Position centrale
-
-
-
-
-
-
-
-
-
-
 
 	// 4 touches : Fl ches
 
