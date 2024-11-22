@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayite\\Documents\\GitHub\\SFML\\sfml_Projet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAFA9460-0336-431C-BFEC-C1C5905B9BB2}|sfml_Projet\\sfml_Projet.vcxproj|C:\\Users\\jayite\\Documents\\GitHub\\SFML\\sfml_Projet\\sfml_Projet\\sfml_p.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FAFA9460-0336-431C-BFEC-C1C5905B9BB2}|sfml_Projet\\sfml_Projet.vcxproj|solutionrelative:sfml_Projet\\sfml_p.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sfml_p.cpp",
+              "DocumentMoniker": "C:\\Users\\jayite\\Documents\\GitHub\\SFML\\sfml_Projet\\sfml_Projet\\sfml_p.cpp",
+              "RelativeDocumentMoniker": "sfml_Projet\\sfml_p.cpp",
+              "ToolTip": "C:\\Users\\jayite\\Documents\\GitHub\\SFML\\sfml_Projet\\sfml_Projet\\sfml_p.cpp",
+              "RelativeToolTip": "sfml_Projet\\sfml_p.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T11:17:52.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
