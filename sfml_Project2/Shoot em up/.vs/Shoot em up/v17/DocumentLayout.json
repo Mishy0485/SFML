@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayite\\Documents\\GitHub\\SFML\\sfml_Project2\\Shoot em up\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCA914C9-BEAD-4353-A93E-7CD410850865}|Shoot em up\\Shoot em up.vcxproj|C:\\Users\\jayite\\Documents\\GitHub\\SFML\\sfml_Project2\\Shoot em up\\Shoot em up\\shoot em up.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCA914C9-BEAD-4353-A93E-7CD410850865}|Shoot em up\\Shoot em up.vcxproj|solutionrelative:Shoot em up\\shoot em up.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "shoot em up.cpp",
+              "DocumentMoniker": "C:\\Users\\jayite\\Documents\\GitHub\\SFML\\sfml_Project2\\Shoot em up\\Shoot em up\\shoot em up.cpp",
+              "RelativeDocumentMoniker": "Shoot em up\\shoot em up.cpp",
+              "ToolTip": "C:\\Users\\jayite\\Documents\\GitHub\\SFML\\sfml_Project2\\Shoot em up\\Shoot em up\\shoot em up.cpp",
+              "RelativeToolTip": "Shoot em up\\shoot em up.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T09:35:03.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
